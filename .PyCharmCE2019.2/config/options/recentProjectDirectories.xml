@@ -1,0 +1,57 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/apicEnv" />
+        <option value="$USER_HOME$/PycharmProjects/python" />
+        <option value="$USER_HOME$/PycharmProjects/cards.py" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/python" />
+        <option value="$USER_HOME$/Desktop/apicEnv" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Desktop/apicEnv" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/apicEnv">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570040180686" />
+              <option name="buildTimestamp" value="1569401374949" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/cards.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6603.34" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569418081910" />
+              <option name="buildTimestamp" value="1568128707596" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/python">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.6817.19" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570040180686" />
+              <option name="buildTimestamp" value="1569401374949" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

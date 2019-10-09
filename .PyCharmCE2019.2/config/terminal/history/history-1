@@ -1,0 +1,62 @@
+sudo apt-get update
+git
+sudo apt-get install git
+ld
+ls
+cd Downloads/
+ls
+mv liclipse_5.2.4_linux.gtk.x86_64.tar.gz /opt/
+sudo mv liclipse_5.2.4_linux.gtk.x86_64.tar.gz /opt/
+cd /opt/
+ls
+sudo tar xfz liclipse_5.2.4_linux.gtk.x86_64.tar.gz 
+ls
+sudo ln -s `pwd`/liclipse/LiClipse /usr/bin/liclipse
+liclipse
+cd ~/Downloads/
+ls
+sudo mv pycharm-community-2019.1.2.tar.gz  /opt
+cd /opt
+ls
+trash
+rm liclipse_5.2.4_linux.gtk.x86_64.tar.gz 
+sudo rm liclipse_5.2.4_linux.gtk.x86_64.tar.gz 
+ls
+tar xvfz pycharm-community-2019.1.2.tar.gz 
+sudo tar xvfz pycharm-community-2019.1.2.tar.gz 
+ls
+cd pycharm-community-2019.1.2/
+ls
+more Install-Linux-tar.txt 
+ls
+cd bin/
+ls
+./pycharm.sh 
+cd ..
+ls
+cd ..
+ls
+sudo ln -s `pwd`/liclipse/LiClipse /usr/share/applications/
+sudo ln -s `pwd`/liclipse/LiClipse ~/.local/share/applications/
+sudo apt-get install --no-install-recommends gnome-panel
+gnome-desktop-item-edit ~/Desktop/ --create-new
+ls 
+cd /opt/pycharm-community-2019.1.2/
+ls
+cd bin
+ls
+./pycharm.sh 
+pwd
+/opt/pycharm-community-2019.1.2/bin/pycharm.sh
+cd ..
+ls
+cd ..
+ls
+rm -rf pycharm-community-2019.1.2
+sudo rm -rf pycharm-community-2019.1.2
+ls
+rm -rf pycharm-community-2019.1.2.tar.gz 
+sudo rm -rf pycharm-community-2019.1.2.tar.gz 
+ls
+pycharm-community 
+git

@@ -1,0 +1,63 @@
+!SESSION 2019-05-27 09:36:24.615 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-27 09:36:45.140
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-05-27 09:53:26.067 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-27 09:53:31.605
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-05-27 10:04:08.928 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-27 10:04:18.703
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-05-27 10:07:39.150 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-27 10:07:44.566
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-05-27 10:16:14.300 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-27 10:16:19.826
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-05-27 10:17:30.546 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-27 10:17:35.969
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-05-27 10:30:46.770 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-27 10:30:51.885
+!MESSAGE Using Apache MINA sshd as ssh client.
